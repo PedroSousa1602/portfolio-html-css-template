@@ -1,23 +1,23 @@
 # portfolio-html-css-template
 
-Este é um template simples de portefólio feito com HTML e CSS puro. Criado como exercício prático para aprender e aplicar os fundamentos de desenvolvimento web, este projeto serve como base para qualquer pessoa que queira criar o seu próprio portefólio online.
+This is a simple portfolio template made with pure HTML and CSS. Created as a practical exercise to learn and apply the fundamentals of web development, this project serves as a base for anyone who wants to create their own online portfolio.
 
-✅ Funcionalidades:
+✅ Features:
 
--Design limpo e responsivo
+-Clean and responsive design
 
--Secções estruturadas para: Início, Projetos, Contacto
+-Structured sections for: Home, Projects, Contact
 
-🛠️ Tecnologias usadas:
+🛠️ Technologies used:
 
 -HTML5
 
 -CSS3
 
-📦 Ideal para:
+📦 Ideal for:
 
--Estudantes e iniciantes em web development
+-Students and beginners in web development
 
--Quem precisa de um ponto de partida para criar o seu portefólio
+-Those who need a starting point to create their portfolio
 
-⚠️ Nota: Este template não inclui conteúdo pessoal. Sinta-se à vontade para personalizar e adaptar conforme necessário.
+⚠️ Note: This template does not include personal content. Feel free to customize and adapt as needed.
